@@ -1,0 +1,706 @@
+TaudiMate
+v7
+r0
+t318550023.867095
+cCheck dependencies
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C238B9B00000000000000EE
+t1277397915
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/System/Library/Frameworks/AppleScriptKit.framework/AppleScriptKit
+c000000004B5FA79200000000001BBC30
+t1264560018
+s1817648
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/English.lproj/InfoPlist.strings
+c000000004B5CCAC300000000000000C6
+t1264372419
+s198
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/English.lproj/Localizable.strings
+c000000004D4909F500000000000001E1
+t1296632309
+s481
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/MainMenu.nib
+c000000004D4C78460000000000000088
+t1296857158
+s136
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.applescript
+c000000004D4C783500000000000071D5
+t1296857141
+s29141
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.icns
+c000000004D36D2BF000000000004ECA6
+t1295438527
+s322726
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMateBG_purple.png
+c000000004D118FE10000000000063639
+t1292996577
+s407097
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/blankBlack.gif
+c000000004C82CD44000000000000002B
+t1283640644
+s43
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/blankWhite.gif
+c000000004C81F738000000000000002B
+t1283585848
+s43
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/Localizable.strings
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/MainMenu.nib
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/audiMate.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/generateiTunesList.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/location.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/matchMaker.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/register.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/soundbite.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/syncMyArtists.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/updateApp.scpt
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/audiMate.icns
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/audiMateBG_purple.png
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/blankBlack.gif
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/blankWhite.gif
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/dp.pl
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate
+t1296855019
+s13192
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate.LinkFileList
+c000000004D4C6B5F000000000000007C
+t1296853855
+s124
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o
+t1296853857
+s3452
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate
+t1296855019
+s12928
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate.LinkFileList
+c000000004D4C6FEB000000000000007B
+t1296855019
+s123
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/main.o
+t1296855019
+s3580
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/audiMate.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+t2
+s0
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/dp.pl
+c000000004359496C0000000000000072
+t1129924972
+s114
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/generateiTunesList.applescript
+c000000004D1C334800000000000007F0
+t1293693768
+s2032
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/location.applescript
+c000000004D33E54E0000000000000AEF
+t1295246670
+s2799
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m
+c000000004B2018B000000000000000C5
+t1260394672
+s197
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/matchMaker.applescript
+c000000004D38E5E60000000000002902
+t1295574502
+s10498
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/register.applescript
+c000000004D38E7020000000000001748
+t1295574786
+s5960
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/soundbite.applescript
+c000000004D315D150000000000001696
+t1295080725
+s5782
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/syncMyArtists.applescript
+c000000004D315D1A0000000000000E8A
+t1295080730
+s3722
+
+N/Users/grayheflin/Documents/Programming/Xcode/audiMate/updateApp.applescript
+c000000004D4C785800000000000038C9
+t1296857176
+s14537
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/English.lproj/InfoPlist.strings
+c000000004B5CCAC300000000000000C6
+t1264372419
+s198
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/MainMenu.nib
+c000000004D0EAED50000000000000088
+t1292807893
+s136
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/audiMate.applescript
+c000000004D0EA8E70000000000003689
+t1292806375
+s13961
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/audiMateBG.jpg
+c000000004D0E9E1B0000000000016642
+t1292803611
+s91714
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/blankBlack.gif
+c000000004C82CD44000000000000002B
+t1283640644
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/blankWhite.gif
+c000000004C81F738000000000000002B
+t1283585848
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+t1292807896
+s102
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist
+t1292805440
+s513
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+t1292805442
+s13184
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/PkgInfo
+t1292805440
+s8
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1292805441
+s98
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/MainMenu.nib
+t1292807896
+s80863
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/audiMate.scpt
+t1292806378
+s60932
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/audiMateBG.jpg
+t1292805441
+s91714
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/blankBlack.gif
+t1292805441
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/blankWhite.gif
+t1292805441
+s43
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate.LinkFileList
+c000000004D0EA5400000000000000078
+t1292805440
+s120
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o
+t1292805442
+s3444
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+t1292805440
+s953
+
+N/Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m
+c000000004B2018B000000000000000C5
+t1260394672
+s197
+
+NInfo.plist
+c000000004D4C766D00000000000003B2
+t1296856685
+s946
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318550023#318550023#0(0"0(0#1#0"8656416320#0"0#
+
+CCompileC build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s318546657.735455
+e318546657.864286
+r1
+xCompileC
+xbuild/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m318546657#318546657#0(0"0(0#0#61"/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m8635795424#1036"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/audiMate.hmap -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/include -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources/i386 -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources -c /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o0#
+
+CCompileC build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s314438715.214244
+e314438715.240461
+r1
+xCompileC
+xbuild/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@65"Compile /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m314438715#314438715#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m8614905984#1004"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/audiMate.hmap -F/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/include -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources/i386 -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources -c /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o0#
+
+CCompileC build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s314498242.007511
+e314498242.104589
+r1
+xCompileC
+xbuild/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m314498242#314498242#0(0"0(0#0#57"/Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m8624954688#1004"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/audiMate.hmap -F/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/include -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources/i386 -I/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources -c /Volumes/Woah/Documents/Programming/Xcode/audiMate/main.m -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/main.o0#
+
+CCompileC build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/main.o /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s318547819.568881
+e318547819.872506
+r1
+xCompileC
+xbuild/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/main.o
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m318547819#318547819#0(0"0(0#0#61"/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m8635089408#1033"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/audiMate.hmap -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/include -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources/ppc -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources -c /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/main.o0#
+
+CCompileC build/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/main.o /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318549496.566332
+e318549496.688685
+r1
+xCompileC
+xbuild/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/main.o
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m318549496#318549496#0(0"0(0#0#61"/Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m8647675456#1042"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/audiMate.hmap -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/include -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources/x86_64 -I/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/DerivedSources -c /Users/grayheflin/Documents/Programming/Xcode/audiMate/main.m -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s318549496.187396
+e318549496.311460
+r1
+xCopyStringsFile
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings318549496#318549496#0(0"0(0#0#86"/Users/grayheflin/Documents/Programming/Xcode/audiMate/English.lproj/InfoPlist.strings8646383168#398"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-8 English.lproj/InfoPlist.strings --outdir /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s318549496.323865
+e318549496.549861
+r1
+xCopyStringsFile
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings318549496#318549496#0(0"0(0#0#88"/Users/grayheflin/Documents/Programming/Xcode/audiMate/English.lproj/Localizable.strings8635832800#399"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-8 English.lproj/Localizable.strings --outdir /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s314498241.176110
+e314498241.495356
+r1
+xCopyStringsFile
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings314498241#314498241#0(0"0(0#0#82"/Volumes/Woah/Documents/Programming/Xcode/audiMate/English.lproj/InfoPlist.strings8624699776#390"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-8 English.lproj/InfoPlist.strings --outdir /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/audiMate.icns audiMate.icns
+s318549496.321928
+e318549496.385859
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/audiMate.icns
+xaudiMate.icns
+lSLF07#2@18"Copy audiMate.icns318549496#318549496#0(0"0(0#0#68"/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.icns8643930176#392"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.icns /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/audiMateBG.jpg audiMateBG.jpg
+s314498241.495468
+e314498241.566531
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/audiMateBG.jpg
+xaudiMateBG.jpg
+lSLF07#2@19"Copy audiMateBG.jpg314498241#314498241#0(0"0(0#0#65"/Volumes/Woah/Documents/Programming/Xcode/audiMate/audiMateBG.jpg8625026688#367"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Volumes/Woah/Documents/Programming/Xcode/audiMate/audiMateBG.jpg /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/audiMateBG_purple.png audiMateBG_purple.png
+s318549496.313204
+e318549496.387628
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/audiMateBG_purple.png
+xaudiMateBG_purple.png
+lSLF07#2@26"Copy audiMateBG_purple.png318549496#318549496#0(0"0(0#0#76"/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMateBG_purple.png8645883520#400"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMateBG_purple.png /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/blankBlack.gif blankBlack.gif
+s318549496.312539
+e318549496.381297
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/blankBlack.gif
+xblankBlack.gif
+lSLF07#2@19"Copy blankBlack.gif318549496#318549496#0(0"0(0#0#69"/Users/grayheflin/Documents/Programming/Xcode/audiMate/blankBlack.gif8645963904#393"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/grayheflin/Documents/Programming/Xcode/audiMate/blankBlack.gif /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/blankWhite.gif blankWhite.gif
+s318549496.311554
+e318549496.382718
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/blankWhite.gif
+xblankWhite.gif
+lSLF07#2@19"Copy blankWhite.gif318549496#318549496#0(0"0(0#0#69"/Users/grayheflin/Documents/Programming/Xcode/audiMate/blankWhite.gif8646037056#393"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/grayheflin/Documents/Programming/Xcode/audiMate/blankWhite.gif /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCpResource build/Debug/audiMate.app/Contents/Resources/dp.pl dp.pl
+s318549496.549956
+e318549496.555126
+r1
+xCpResource
+xbuild/Debug/audiMate.app/Contents/Resources/dp.pl
+xdp.pl
+lSLF07#2@10"Copy dp.pl318549496#318549496#0(0"0(0#0#60"/Users/grayheflin/Documents/Programming/Xcode/audiMate/dp.pl8647716960#384"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/grayheflin/Documents/Programming/Xcode/audiMate/dp.pl /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources0#
+
+CCreateUniversalBinary /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate normal "i386 ppc"
+s318547819.924394
+e318547819.928108
+r1
+xCreateUniversalBinary
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+xnormal
+xi386 ppc
+lSLF07#2@88"CreateUniversalBinary build/Debug/audiMate.app/Contents/MacOS/audiMate normal "i386 ppc"318547819#318547819#0(0"0(0#0#63"/Users/grayheflin/Documents/Programming/Xcode/audiMate/i386 ppc8636479808#451"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/lipo -create /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate -output /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate0#
+
+CLd /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate normal i386
+s318546657.864412
+e318546657.991533
+r1
+xLd
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+xnormal
+xi386
+lSLF07#2@108"Link /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate318546657#318546658#0(0"0(0#0#0"8634184992#649"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -filelist /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate0#
+
+CLd /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate normal x86_64
+s318549496.688849
+e318549496.876901
+r1
+xLd
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+xnormal
+xx86_64
+lSLF07#2@108"Link /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate318549496#318549496#0(0"0(0#0#0"8647048160#653"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -filelist /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/x86_64/audiMate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate0#
+
+CLd /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate normal i386
+s318547819.567999
+e318547819.911153
+r1
+xLd
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate
+xnormal
+xi386
+lSLF07#2@130"Link /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate318547819#318547819#0(0"0(0#0#0"8635100224#671"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -filelist /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate0#
+
+CLd /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate normal ppc
+s318547819.872621
+e318547819.924258
+r1
+xLd
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate
+xnormal
+xppc
+lSLF07#2@129"Link /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate318547819#318547819#0(0"0(0#0#0"8622060448#668"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -filelist /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/ppc/audiMate0#
+
+CLd /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate normal i386
+s314498242.104717
+e314498243.087737
+r1
+xLd
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate
+xnormal
+xi386
+lSLF07#2@104"Link /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate314498242#314498243#0(0"0(0#0#0"8624919584#629"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug -F/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug -filelist /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Objects-normal/i386/audiMate.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework AppleScriptKit -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/MacOS/audiMate0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/audiMate.scpt audiMate.applescript
+s318549959.866673
+e318549961.043727
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/audiMate.scpt
+xaudiMate.applescript
+o2011-02-04 17:05:59.946 osacompile[1764:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@28"Compile audiMate.applescript318549959#318549961#0(545"2011-02-04 17:05:59.946 osacompile[1764:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#75"/Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.applescript8650356576#383"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U audiMate.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/audiMate.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/audiMate.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/generateiTunesList.scpt generateiTunesList.applescript
+s318549494.665834
+e318549494.814485
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/generateiTunesList.scpt
+xgenerateiTunesList.applescript
+o2011-02-04 16:58:14.700 osacompile[1571:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@38"Compile generateiTunesList.applescript318549494#318549494#0(545"2011-02-04 16:58:14.700 osacompile[1571:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#85"/Users/grayheflin/Documents/Programming/Xcode/audiMate/generateiTunesList.applescript8647900640#413"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U generateiTunesList.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/generateiTunesList.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/generateiTunesList.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/location.scpt location.applescript
+s318549496.002867
+e318549496.085581
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/location.scpt
+xlocation.applescript
+o2011-02-04 16:58:16.034 osacompile[1576:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@28"Compile location.applescript318549496#318549496#0(545"2011-02-04 16:58:16.034 osacompile[1576:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#75"/Users/grayheflin/Documents/Programming/Xcode/audiMate/location.applescript8647115616#383"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U location.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/location.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/location.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/matchMaker.scpt matchMaker.applescript
+s318549494.814580
+e318549494.928544
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/matchMaker.scpt
+xmatchMaker.applescript
+o2011-02-04 16:58:14.848 osacompile[1573:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@30"Compile matchMaker.applescript318549494#318549494#0(545"2011-02-04 16:58:14.848 osacompile[1573:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#77"/Users/grayheflin/Documents/Programming/Xcode/audiMate/matchMaker.applescript8647539136#389"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U matchMaker.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/matchMaker.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/matchMaker.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/register.scpt register.applescript
+s318549496.044189
+e318549496.142513
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/register.scpt
+xregister.applescript
+o2011-02-04 16:58:16.082 osacompile[1577:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@28"Compile register.applescript318549496#318549496#0(545"2011-02-04 16:58:16.082 osacompile[1577:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#75"/Users/grayheflin/Documents/Programming/Xcode/audiMate/register.applescript8647025120#383"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U register.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/register.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/register.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/soundbite.scpt soundbite.applescript
+s318549495.025135
+e318549496.002771
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/soundbite.scpt
+xsoundbite.applescript
+o2011-02-04 16:58:15.056 osacompile[1575:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@29"Compile soundbite.applescript318549495#318549496#0(545"2011-02-04 16:58:15.056 osacompile[1575:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Users/grayheflin/Documents/Programming/Xcode/audiMate/soundbite.applescript8648566976#386"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U soundbite.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/soundbite.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/soundbite.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/syncMyArtists.scpt syncMyArtists.applescript
+s318549494.928642
+e318549495.025045
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/syncMyArtists.scpt
+xsyncMyArtists.applescript
+o2011-02-04 16:58:14.967 osacompile[1574:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@33"Compile syncMyArtists.applescript318549494#318549495#0(545"2011-02-04 16:58:14.967 osacompile[1574:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#80"/Users/grayheflin/Documents/Programming/Xcode/audiMate/syncMyArtists.applescript8644146144#398"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U syncMyArtists.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/syncMyArtists.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/syncMyArtists.applescript0#
+
+COSACompile build/Debug/audiMate.app/Contents/Resources/Scripts/updateApp.scpt updateApp.applescript
+s318549977.057325
+e318549977.167589
+r1
+xOSACompile
+xbuild/Debug/audiMate.app/Contents/Resources/Scripts/updateApp.scpt
+xupdateApp.applescript
+o2011-02-04 17:06:17.101 osacompile[1773:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:
+o	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapper
+oosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.
+lSLF07#2@29"Compile updateApp.applescript318549977#318549977#0(545"2011-02-04 17:06:17.101 osacompile[1773:607] Error loading /Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types:  dlopen(/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types, 262): no suitable image found.  Did find:	/Library/ScriptingAdditions/Adobe Unit Types.osax/Contents/MacOS/Adobe Unit Types: no matching architecture in universal wrapperosacompile: OpenScripting.framework - scripting addition "/Library/ScriptingAdditions/Adobe Unit Types.osax" declares no loadable handlers.0(0#0#76"/Users/grayheflin/Documents/Programming/Xcode/audiMate/updateApp.applescript8649827232#386"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/osacompile -d -i /System/Library/Frameworks/AppleScriptKit.framework -l AppleScript -U updateApp.applescript -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/Scripts/updateApp.scpt /Users/grayheflin/Documents/Programming/Xcode/audiMate/updateApp.applescript0#
+
+CPreprocess /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist Info.plist
+s318549494.614765
+e318549494.660401
+r1
+xPreprocess
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+xInfo.plist
+lSLF07#2@87"Preprocess build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist Info.plist318549494#318549494#0(0"0(0#0#65"/Users/grayheflin/Documents/Programming/Xcode/audiMate/Info.plist8647684608#319"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/usr/bin/gcc -E -P -x c -Wno-trigraphs Info.plist -F/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist0#
+
+CPreprocess /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist Info.plist
+s314498240.087621
+e314498240.198533
+r1
+xPreprocess
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+xInfo.plist
+lSLF07#2@87"Preprocess build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist Info.plist314498240#314498240#0(0"0(0#0#61"/Volumes/Woah/Documents/Programming/Xcode/audiMate/Info.plist8624367072#307"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    /Developer/usr/bin/gcc -E -P -x c -Wno-trigraphs Info.plist -F/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist0#
+
+CProcessInfoPlistFile /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+s318549494.660548
+e318549494.665000
+r1
+xProcessInfoPlistFile
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+lSLF07#2@128"Process /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist318549494#318549494#0(0"0(0#0#120"/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist8648617664#477"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    builtin-infoPlistUtility /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist -genpkginfo /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/PkgInfo -expandbuildsettings -format binary -platform macosx -o /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+s314498240.198709
+e314498240.213658
+r1
+xProcessInfoPlistFile
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist
+lSLF07#2@124"Process /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist314498240#314498240#0(0"0(0#0#116"/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist8624211776#461"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    builtin-infoPlistUtility /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/audiMate.build/Debug/audiMate.build/Preprocessed-Info.plist -genpkginfo /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/PkgInfo -expandbuildsettings -format binary -platform macosx -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist Info.plist
+s314437539.459441
+e314437539.467750
+r1
+xProcessInfoPlistFile
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist314437539#314437539#0(0"0(0#0#61"/Volumes/Woah/Documents/Programming/Xcode/audiMate/Info.plist8610301568#340"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    builtin-infoPlistUtility Info.plist -genpkginfo /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Info.plist0#
+
+CStripNIB /Users/grayheflin/Documents/Programming/Xcode/audiMate/MainMenu.nib
+s318549961.043899
+e318549961.191115
+r1
+xStripNIB
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/MainMenu.nib
+lSLF07#2@21"StripNIB MainMenu.nib318549961#318549961#0(0"0(0#0#67"/Users/grayheflin/Documents/Programming/Xcode/audiMate/MainMenu.nib8653588096#316"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /Developer/usr/bin/ibtool --strip /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/MainMenu.nib --output-format human-readable-text /Users/grayheflin/Documents/Programming/Xcode/audiMate/MainMenu.nib0#
+
+CStripNIB /Volumes/Woah/Documents/Programming/Xcode/audiMate/MainMenu.nib
+s314500696.170024
+e314500696.324557
+r1
+xStripNIB
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/MainMenu.nib
+lSLF07#2@21"StripNIB MainMenu.nib314500696#314500696#0(0"0(0#0#63"/Volumes/Woah/Documents/Programming/Xcode/audiMate/MainMenu.nib28429440806879332#304"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    /Developer/usr/bin/ibtool --strip /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app/Contents/Resources/MainMenu.nib --output-format human-readable-text /Volumes/Woah/Documents/Programming/Xcode/audiMate/MainMenu.nib0#
+
+CTouch /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+s318549977.168241
+e318549977.170893
+r1
+xTouch
+x/Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+lSLF07#2@85"Touch /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app318549977#318549977#0(0"0(0#0#0"8654254528#164"    cd /Users/grayheflin/Documents/Programming/Xcode/audiMate    /usr/bin/touch -c /Users/grayheflin/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app0#
+
+CTouch /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+s314500696.324843
+e314500696.328195
+r1
+xTouch
+x/Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app
+lSLF07#2@81"Touch /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app314500696#314500696#0(0"0(0#0#0"28992425118793828#156"    cd /Volumes/Woah/Documents/Programming/Xcode/audiMate    /usr/bin/touch -c /Volumes/Woah/Documents/Programming/Xcode/audiMate/build/Debug/audiMate.app0#
+

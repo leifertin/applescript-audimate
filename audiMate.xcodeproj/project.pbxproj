@@ -1,0 +1,377 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 44;
+	objects = {
+
+/* Begin PBXAppleScriptBuildPhase section */
+		257572C4072881A4000BE9CA /* AppleScript */ = {
+			isa = PBXAppleScriptBuildPhase;
+			buildActionMask = 2147483647;
+			contextName = "";
+			files = (
+				257572C5072881A4000BE9CA /* audiMate.applescript in AppleScript */,
+				E049787312C7F75F0073CCB1 /* generateiTunesList.applescript in AppleScript */,
+				E0E6E03D12C811E400973F60 /* syncMyArtists.applescript in AppleScript */,
+				E0B6EFB812DC1E1400E512C2 /* soundbite.applescript in AppleScript */,
+				E00532F912DDA9810035CD56 /* location.applescript in AppleScript */,
+				E0AC751412DDC0C700D77147 /* register.applescript in AppleScript */,
+				E0AD65AB12F93E93009767F2 /* updateApp.applescript in AppleScript */,
+			);
+			isSharedContext = 0;
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXAppleScriptBuildPhase section */
+
+/* Begin PBXBuildFile section */
+		257572C5072881A4000BE9CA /* audiMate.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = DA206CF3015C4E8B03C91932 /* audiMate.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		257572C8072881A4000BE9CA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		257572CA072881A4000BE9CA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		257572CC072881A4000BE9CA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		257572CD072881A4000BE9CA /* AppleScriptKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */; };
+		40080C6112BDCE8100240BF6 /* MainMenu.nib in Resources */ = {isa = PBXBuildFile; fileRef = 40080C6012BDCE8100240BF6 /* MainMenu.nib */; };
+		407C2EE112C1C7D000E9C203 /* audiMateBG_purple.png in Resources */ = {isa = PBXBuildFile; fileRef = 407C2EE012C1C7D000E9C203 /* audiMateBG_purple.png */; };
+		409A46A512BED705002950AA /* blankWhite.gif in Resources */ = {isa = PBXBuildFile; fileRef = 409A46A412BED705002950AA /* blankWhite.gif */; };
+		409A46A712BED70C002950AA /* blankBlack.gif in Resources */ = {isa = PBXBuildFile; fileRef = 409A46A612BED70C002950AA /* blankBlack.gif */; };
+		E00532F912DDA9810035CD56 /* location.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E00532F812DDA9810035CD56 /* location.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		E049787312C7F75F0073CCB1 /* generateiTunesList.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E049787212C7F75F0073CCB1 /* generateiTunesList.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		E05B7D6012E70A9E00A8EE84 /* audiMate.icns in Resources */ = {isa = PBXBuildFile; fileRef = E05B7D5F12E70A9E00A8EE84 /* audiMate.icns */; };
+		E0AC751412DDC0C700D77147 /* register.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E0AC751312DDC0C700D77147 /* register.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		E0AD65AB12F93E93009767F2 /* updateApp.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E0AD65AA12F93E93009767F2 /* updateApp.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		E0B6EFB812DC1E1400E512C2 /* soundbite.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E0B6EFB712DC1E1400E512C2 /* soundbite.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+		E0DF9E4412FCA0BF00479395 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E0DF9E4312FCA0BF00479395 /* Localizable.strings */; };
+		E0DF9E8B12FCA1A200479395 /* dp.pl in Resources */ = {isa = PBXBuildFile; fileRef = E0DF9E8A12FCA1A200479395 /* dp.pl */; };
+		E0E6E03D12C811E400973F60 /* syncMyArtists.applescript in AppleScript */ = {isa = PBXBuildFile; fileRef = E0E6E03C12C811E400973F60 /* syncMyArtists.applescript */; settings = {ATTRIBUTES = (Debug, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		257572D5072881A4000BE9CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		257572D6072881A4000BE9CA /* audiMate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = audiMate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		40080C6012BDCE8100240BF6 /* MainMenu.nib */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; path = MainMenu.nib; sourceTree = SOURCE_ROOT; };
+		407C2EE012C1C7D000E9C203 /* audiMateBG_purple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = audiMateBG_purple.png; sourceTree = SOURCE_ROOT; };
+		409A46A412BED705002950AA /* blankWhite.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blankWhite.gif; sourceTree = SOURCE_ROOT; };
+		409A46A612BED70C002950AA /* blankBlack.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = blankBlack.gif; sourceTree = SOURCE_ROOT; };
+		65359356078DD41800E8BB2F /* AppleScriptKit.sdef */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = text.sdef; name = AppleScriptKit.sdef; path = /System/Library/Frameworks/AppleScriptKit.framework/Versions/A/Resources/AppleScriptKit.sdef; sourceTree = "<absolute>"; };
+		DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptKit.framework; path = /System/Library/Frameworks/AppleScriptKit.framework; sourceTree = "<absolute>"; };
+		DA206CF3015C4E8B03C91932 /* audiMate.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; path = audiMate.applescript; sourceTree = "<group>"; };
+		E00532F812DDA9810035CD56 /* location.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = location.applescript; sourceTree = SOURCE_ROOT; };
+		E049787212C7F75F0073CCB1 /* generateiTunesList.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = generateiTunesList.applescript; sourceTree = SOURCE_ROOT; };
+		E05B7D5F12E70A9E00A8EE84 /* audiMate.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = audiMate.icns; sourceTree = SOURCE_ROOT; };
+		E0AC751312DDC0C700D77147 /* register.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = register.applescript; sourceTree = SOURCE_ROOT; };
+		E0AD65AA12F93E93009767F2 /* updateApp.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = updateApp.applescript; sourceTree = SOURCE_ROOT; };
+		E0AD65EA12F94238009767F2 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/Localizable.strings; sourceTree = "<group>"; };
+		E0B6EFB712DC1E1400E512C2 /* soundbite.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = soundbite.applescript; sourceTree = SOURCE_ROOT; };
+		E0DF9E8A12FCA1A200479395 /* dp.pl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.perl; path = dp.pl; sourceTree = SOURCE_ROOT; };
+		E0E6E03C12C811E400973F60 /* syncMyArtists.applescript */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.applescript; path = syncMyArtists.applescript; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		257572CB072881A4000BE9CA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572CC072881A4000BE9CA /* Cocoa.framework in Frameworks */,
+				257572CD072881A4000BE9CA /* AppleScriptKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Scripts */ = {
+			isa = PBXGroup;
+			children = (
+				E0AD65AA12F93E93009767F2 /* updateApp.applescript */,
+				E0AC751312DDC0C700D77147 /* register.applescript */,
+				E00532F812DDA9810035CD56 /* location.applescript */,
+				E0B6EFB712DC1E1400E512C2 /* soundbite.applescript */,
+				E0E6E03C12C811E400973F60 /* syncMyArtists.applescript */,
+				E049787212C7F75F0073CCB1 /* generateiTunesList.applescript */,
+				DA206CF3015C4E8B03C91932 /* audiMate.applescript */,
+			);
+			name = Scripts;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+				DA206CF1015C4E2903C91932 /* AppleScriptKit.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				257572D6072881A4000BE9CA /* audiMate.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CherryPick */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Scripts */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				257572D5072881A4000BE9CA /* Info.plist */,
+			);
+			name = CherryPick;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E0DF9E8A12FCA1A200479395 /* dp.pl */,
+				E0DF9E4312FCA0BF00479395 /* Localizable.strings */,
+				E05B7D5F12E70A9E00A8EE84 /* audiMate.icns */,
+				407C2EE012C1C7D000E9C203 /* audiMateBG_purple.png */,
+				409A46A612BED70C002950AA /* blankBlack.gif */,
+				409A46A412BED705002950AA /* blankWhite.gif */,
+				40080C6012BDCE8100240BF6 /* MainMenu.nib */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				65359356078DD41800E8BB2F /* AppleScriptKit.sdef */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		257572C3072881A4000BE9CA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		257572C2072881A4000BE9CA /* audiMate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E71A80508A2C90C0034BBD9 /* Build configuration list for PBXNativeTarget "audiMate" */;
+			buildPhases = (
+				257572C3072881A4000BE9CA /* Headers */,
+				257572C4072881A4000BE9CA /* AppleScript */,
+				257572C6072881A4000BE9CA /* Resources */,
+				257572C9072881A4000BE9CA /* Sources */,
+				257572CB072881A4000BE9CA /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = audiMate;
+			productInstallPath = "$(HOME)/Applications";
+			productName = CherryPick;
+			productReference = 257572D6072881A4000BE9CA /* audiMate.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 4E71A80908A2C90C0034BBD9 /* Build configuration list for PBXProject "audiMate" */;
+			compatibilityVersion = "Xcode 3.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CherryPick */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				257572C2072881A4000BE9CA /* audiMate */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		257572C6072881A4000BE9CA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572C8072881A4000BE9CA /* InfoPlist.strings in Resources */,
+				40080C6112BDCE8100240BF6 /* MainMenu.nib in Resources */,
+				409A46A512BED705002950AA /* blankWhite.gif in Resources */,
+				409A46A712BED70C002950AA /* blankBlack.gif in Resources */,
+				407C2EE112C1C7D000E9C203 /* audiMateBG_purple.png in Resources */,
+				E05B7D6012E70A9E00A8EE84 /* audiMate.icns in Resources */,
+				E0DF9E4412FCA0BF00479395 /* Localizable.strings in Resources */,
+				E0DF9E8B12FCA1A200479395 /* dp.pl in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		257572C9072881A4000BE9CA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				257572CA072881A4000BE9CA /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		E0DF9E4312FCA0BF00479395 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E0AD65EA12F94238009767F2 /* English */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4E71A80608A2C90C0034BBD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = "";
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_VERSION = "";
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_OUTPUT_FORMAT = binary;
+				INFOPLIST_PREPROCESS = YES;
+				INSTALL_PATH = /Applications;
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				PRODUCT_NAME = audiMate;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+				SKIP_INSTALL = NO;
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
+				WRAPPER_EXTENSION = app;
+				ZERO_LINK = YES;
+			};
+			name = Debug;
+		};
+		4E71A80708A2C90C0034BBD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1)";
+				ARCHS_STANDARD_32_64_BIT_PRE_XCODE_3_1 = "x86_64 i386 ppc";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_AUTO_VECTORIZATION = YES;
+				GCC_MODEL_TUNING = "";
+				GCC_REUSE_STRINGS = YES;
+				GCC_VERSION = "";
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_OUTPUT_FORMAT = binary;
+				INFOPLIST_PREPROCESS = YES;
+				INSTALL_PATH = /Applications;
+				MACOSX_DEPLOYMENT_TARGET = 10.5;
+				OTHER_OSAFLAGS = "-x";
+				PRODUCT_NAME = audiMate;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+				STRINGS_FILE_OUTPUT_ENCODING = "UTF-8";
+				STRIP_INSTALLED_PRODUCT = NO;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		4E71A80A08A2C90C0034BBD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+			};
+			name = Debug;
+		};
+		4E71A80B08A2C90C0034BBD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					ppc,
+					i386,
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = "$(DEVELOPER_SDK_DIR)/MacOSX10.5.sdk";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E71A80508A2C90C0034BBD9 /* Build configuration list for PBXNativeTarget "audiMate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E71A80608A2C90C0034BBD9 /* Debug */,
+				4E71A80708A2C90C0034BBD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E71A80908A2C90C0034BBD9 /* Build configuration list for PBXProject "audiMate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E71A80A08A2C90C0034BBD9 /* Debug */,
+				4E71A80B08A2C90C0034BBD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}
